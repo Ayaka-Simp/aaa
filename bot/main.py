@@ -435,4 +435,4 @@ async def on_member_join(member):
 async def on_member_remove(member):
     await member.send(f"{member} was the imposter")
 
-client.run("ODQ5ODAzODMxMzM1NzE0ODI3.YLgffQ.Baz4ZUICZ1OIWSpm9XG7oNyZ_rs")
+client.run("ODQ5ODAzODMxMzM1NzE0ODI3.YLgffQ.v9Plb1Gqr9BqiFPP4hBhk6LXf3o")
